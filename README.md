@@ -49,10 +49,10 @@ Al unirse a un clúster, la instancia recuperará el estado actual del historial
 Para ejecutar SimpleChat en un entorno distribuido:
 1. Asegúrate de que los nodos en el clúster estén en la misma red.
 2. Ejecuta SimpleChat en múltiples terminales o máquinas para crear una sesión de chat distribuida.
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 3. para verificar que la ejecucion fue correcta podemos enviar un mensaje desde cualquier instancia y evidenciar com ose replica en las otras
-![img.png](img.png)
+![img.png](img/img.png)
 4. y verificamos las otras instancias
--![img_2.png](img_2.png)
--![img_3.png](img_3.png)
--![img_4.png](img_4.png)
+-![img_2.png](img/img_2.png)
+-![img_3.png](img/img_3.png)
+-![img_4.png](img/img_4.png)
